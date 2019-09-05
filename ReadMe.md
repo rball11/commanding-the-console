@@ -11,7 +11,7 @@
 
 ![Commit Messages](https://imgs.xkcd.com/comics/git_commit.png)
 
-##Git Commands
+## Git Commands
 
 - **git init** - This commands is used to initialize (setup) a git repository in the current directory. When a repository is setup, there will be a hidden folder named ".git" that contains all the history of commits for the repository.
 - **git add .** - This command is used to stage un-tracked and modified files for a commit. If a file is not being tracked (and is not listed in .gitignore), this command will mark the file as a new item for the repository to track. If a file has been modified, then this command will mark it as ready to be committed. 
